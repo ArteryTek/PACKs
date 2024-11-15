@@ -1,4 +1,4 @@
 Usage:
-    Enter the command int the terminal
+    Enter the command in the terminal
     $ sudo ./Segger_AT32MCU_AddOn
 
